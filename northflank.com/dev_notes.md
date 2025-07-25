@@ -1,0 +1,4 @@
+# Dev added notes
+
+## Templates
+NEVER LEAVE COMMENTS IN TEMPLATES. THE JSON WILL BREAK
