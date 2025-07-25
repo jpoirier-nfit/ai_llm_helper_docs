@@ -12,6 +12,34 @@
 - If you need to clarify or annotate, do so before or after the code block in your response.
 - When setting `name` you must follow `/^[a-zA-Z0-9]+((-|\s)[a-zA-Z0-9]+)*$/`
 
+### Addon Spec Definition
+
+**Only these fields are allowed for an Addon type:**
+
+```json
+{
+	"kind": "Addon",
+	"ref": "my-addon-ref",
+	"spec": {
+		"type": "addon-type",
+		"version": "7.4.2",
+		"billing": {
+			"replicas": 1,
+			"storage": 4096,
+			"storageClass": "standard",
+			"deploymentPlan": "standard-2gb"
+		},
+		"tlsEnabled": true,
+		"name": "my-addon"
+	}
+}
+```
+
+**Note:**
+
+- Minimum `billing.storage` is 4096.
+- Any other fields should be omitted or flagged as invalid.
+
 ### Volume Spec Definition
 
 **Only these fields are allowed for a Volume type:**
