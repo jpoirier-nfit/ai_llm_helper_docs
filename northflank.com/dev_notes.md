@@ -4,7 +4,12 @@
 
 ## Templates
 
-- NEVER LEAVE COMMENTS IN TEMPLATES. THE JSON WILL BREAK
+- When generating Northflank templates, infrastructure-as-code JSON, or any config intended for Northflank, never include comments, explanations, or non-spec fields inside the code block.
+- All explanations, notes, or context must be provided outside the code block.
+- The code block must contain only valid Northflank JSON as defined by documentation and dev notes.
+- No inline comments (//, /_ ... _/, #, or <!-- ... -->) are allowed.
+- No extra fields for human readability or documentation inside the template.
+- If you need to clarify or annotate, do so before or after the code block in your response.
 - When setting `name` you must follow `/^[a-zA-Z0-9]+((-|\s)[a-zA-Z0-9]+)*$/`
 
 ### Volume Spec Definition
