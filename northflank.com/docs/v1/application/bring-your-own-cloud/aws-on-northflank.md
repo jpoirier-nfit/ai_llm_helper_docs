@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/bring-your-own-cloud/aws-on-northflank
 title: Amazon Web Services on Northflank | Bring Your Own Cloud | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.918175
+crawl_date: 2025-07-29T09:26:09.932377
 watsonmd_version: 0.1.0
 ---
 

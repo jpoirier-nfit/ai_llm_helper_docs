@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/run/run-containers-and-micro-services
 title: Run containers and micro-services on Northflank | Run | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.307855
+crawl_date: 2025-07-29T09:26:09.318902
 watsonmd_version: 0.1.0
 ---
 

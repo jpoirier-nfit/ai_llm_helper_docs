@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/release/configure-a-release-flow
 title: Configure a release flow | Release | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.490992
+crawl_date: 2025-07-29T09:26:09.509164
 watsonmd_version: 0.1.0
 ---
 

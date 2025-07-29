@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/getting-started/set-up-a-pipeline
 title: Set up a pipeline | Getting Started | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.030858
+crawl_date: 2025-07-29T09:26:09.010370
 watsonmd_version: 0.1.0
 ---
 

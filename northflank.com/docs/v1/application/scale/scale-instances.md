@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/scale/scale-instances
 title: Scale instances | Scale | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.200709
+crawl_date: 2025-07-29T09:26:10.207248
 watsonmd_version: 0.1.0
 ---
 

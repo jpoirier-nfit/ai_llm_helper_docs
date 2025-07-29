@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/run/deploy-to-a-region
 title: Deploy to a region | Run | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.363188
+crawl_date: 2025-07-29T09:26:09.379251
 watsonmd_version: 0.1.0
 ---
 

@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/production-workloads/persistent-storage-in-production
 title: Persistent storage in production | Production Workloads | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.090778
+crawl_date: 2025-07-29T09:26:09.075219
 watsonmd_version: 0.1.0
 ---
 

@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/gpu-workloads/configure-and-optimise-workloads-for-gpus
 title: Configure and optimise workloads for GPUs | Gpu Workloads | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.051067
+crawl_date: 2025-07-29T09:26:10.061790
 watsonmd_version: 0.1.0
 ---
 

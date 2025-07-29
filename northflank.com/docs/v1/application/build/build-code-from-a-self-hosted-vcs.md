@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/build/build-code-from-a-self-hosted-vcs
 title: Build code from a self-hosted VCS | Build | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.255755
+crawl_date: 2025-07-29T09:26:09.257035
 watsonmd_version: 0.1.0
 ---
 

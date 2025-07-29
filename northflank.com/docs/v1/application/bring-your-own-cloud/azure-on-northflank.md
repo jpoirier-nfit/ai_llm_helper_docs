@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/bring-your-own-cloud/azure-on-northflank
 title: Microsoft Azure on Northflank | Bring Your Own Cloud | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.931898
+crawl_date: 2025-07-29T09:26:09.944995
 watsonmd_version: 0.1.0
 ---
 

@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/gpu-workloads/deploy-gpus-on-northflank-cloud
 title: Deploy GPUs on Northflank's managed cloud | Gpu Workloads | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.028650
+crawl_date: 2025-07-29T09:26:10.040030
 watsonmd_version: 0.1.0
 ---
 

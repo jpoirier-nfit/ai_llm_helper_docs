@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/databases-and-persistence/deploy-a-database
 title: Deploy a database | Databases And Persistence | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.247497
+crawl_date: 2025-07-29T09:26:10.254186
 watsonmd_version: 0.1.0
 ---
 

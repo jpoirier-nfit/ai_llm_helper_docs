@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/build/inject-build-arguments
 title: Inject build arguments | Build | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.263535
+crawl_date: 2025-07-29T09:26:09.267724
 watsonmd_version: 0.1.0
 ---
 

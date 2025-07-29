@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/run/override-command-entrypoint
 title: Override command or entrypoint | Run | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.386167
+crawl_date: 2025-07-29T09:26:09.402428
 watsonmd_version: 0.1.0
 ---
 

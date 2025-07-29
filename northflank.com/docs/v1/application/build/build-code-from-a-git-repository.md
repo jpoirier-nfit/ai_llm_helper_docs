@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/build/build-code-from-a-git-repository
 title: Build code from a Git repository | Build | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.251298
+crawl_date: 2025-07-29T09:26:09.251995
 watsonmd_version: 0.1.0
 ---
 

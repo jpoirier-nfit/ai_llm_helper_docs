@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/infrastructure-as-code/use-github-actions-with-northflank
 title: Use GitHub Actions with Northflank | Infrastructure as Code | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.829010
+crawl_date: 2025-07-29T09:26:09.845091
 watsonmd_version: 0.1.0
 ---
 

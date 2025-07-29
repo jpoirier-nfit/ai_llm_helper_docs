@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/infrastructure-as-code/gitops-on-northflank
 title: GitOps on Northflank | Infrastructure as Code | Northflank Application docs
-crawl_date: 2025-07-25T12:06:49.805880
+crawl_date: 2025-07-29T09:26:09.822150
 watsonmd_version: 0.1.0
 ---
 

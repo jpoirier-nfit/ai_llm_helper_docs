@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/databases-and-persistence/connect-database-secrets-to-workloads
 title: Connect database secrets to workloads | Databases And Persistence | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.254406
+crawl_date: 2025-07-29T09:26:10.262187
 watsonmd_version: 0.1.0
 ---
 

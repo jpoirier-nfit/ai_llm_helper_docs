@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/application/databases-and-persistence/deploy-databases-on-northflank/deploy-mongodb-on-northflank
 title: Deploy MongoDB® on Northflank | Deploy Databases On Northflank | Databases And Persistence | Northflank Application docs
-crawl_date: 2025-07-25T12:06:50.360510
+crawl_date: 2025-07-29T09:26:10.366603
 watsonmd_version: 0.1.0
 ---
 
