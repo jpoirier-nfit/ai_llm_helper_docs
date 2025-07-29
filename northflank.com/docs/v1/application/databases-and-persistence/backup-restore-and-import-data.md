@@ -1,7 +1,7 @@
 ---
-source_url: https://northflank.com/docs/v1/application/databases-and-persistence/backup-restore-and-import-data
+source_url: https://northflank.com/docs/v1/application/databases-and-persistence/backup-restore-and-import-data#schedule-backups
 title: Backup, restore, and import data | Databases And Persistence | Northflank Application docs
-crawl_date: 2025-07-29T09:26:10.313766
+crawl_date: 2025-07-29T10:44:49.074295
 watsonmd_version: 0.1.0
 ---
 

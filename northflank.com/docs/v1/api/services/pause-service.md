@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/pause-service
 title: Pause service | Services | Northflank API docs
-crawl_date: 2025-07-29T10:02:16.885790
+crawl_date: 2025-07-29T10:04:44.048052
 watsonmd_version: 0.1.0
 ---
 

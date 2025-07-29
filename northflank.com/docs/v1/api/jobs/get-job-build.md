@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/get-job-build
 title: Get job build | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:18.948779
+crawl_date: 2025-07-29T10:04:46.058391
 watsonmd_version: 0.1.0
 ---
 

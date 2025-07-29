@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/get-service-health-checks
 title: Get service health checks | Services | Northflank API docs
-crawl_date: 2025-07-29T10:02:16.749762
+crawl_date: 2025-07-29T10:04:43.921880
 watsonmd_version: 0.1.0
 ---
 

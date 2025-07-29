@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/update-service-build-options
 title: Update service build options | Services | Northflank API docs
-crawl_date: 2025-07-29T10:02:16.613726
+crawl_date: 2025-07-29T10:44:52.715414
 watsonmd_version: 0.1.0
 ---
 

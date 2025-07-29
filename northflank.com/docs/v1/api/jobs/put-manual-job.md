@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/put-manual-job
 title: Put manual job | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:18.512126
+crawl_date: 2025-07-29T10:04:45.617863
 watsonmd_version: 0.1.0
 ---
 

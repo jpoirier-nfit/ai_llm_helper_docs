@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/list-job-builds
 title: List job builds | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:18.725947
+crawl_date: 2025-07-29T10:04:45.832549
 watsonmd_version: 0.1.0
 ---
 

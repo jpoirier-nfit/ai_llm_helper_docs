@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/create-build-service
 title: Create build service | Services | Northflank API docs
-crawl_date: 2025-07-29T10:02:12.932549
+crawl_date: 2025-07-29T10:44:49.741826
 watsonmd_version: 0.1.0
 ---
 

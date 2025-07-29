@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/patch-manual-job
 title: Patch manual job | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:18.638368
+crawl_date: 2025-07-29T10:04:45.740198
 watsonmd_version: 0.1.0
 ---
 

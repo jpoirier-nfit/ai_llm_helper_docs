@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/domains/get-domain-certificate
 title: Get domain certificate | Domains | Northflank API docs
-crawl_date: 2025-07-29T10:02:17.151081
+crawl_date: 2025-07-29T10:04:44.331678
 watsonmd_version: 0.1.0
 ---
 

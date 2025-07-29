@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/projects/get-project
 title: Get project | Projects | Northflank API docs
-crawl_date: 2025-07-29T10:02:12.796710
+crawl_date: 2025-07-29T10:44:49.559768
 watsonmd_version: 0.1.0
 ---
 

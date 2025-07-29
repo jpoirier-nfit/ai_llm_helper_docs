@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/domains/unassign-subdomain
 title: Unassign subdomain | Domains | Northflank API docs
-crawl_date: 2025-07-29T10:02:17.251917
+crawl_date: 2025-07-29T10:04:44.421370
 watsonmd_version: 0.1.0
 ---
 

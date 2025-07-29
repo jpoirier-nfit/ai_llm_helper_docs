@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/create-cron-job
 title: Create cron job | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:17.755336
+crawl_date: 2025-07-29T10:04:44.902068
 watsonmd_version: 0.1.0
 ---
 

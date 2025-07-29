@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/get-job-build-metrics
 title: Get job build metrics | Jobs | Northflank API docs
-crawl_date: 2025-07-29T10:02:18.883774
+crawl_date: 2025-07-29T10:04:45.991867
 watsonmd_version: 0.1.0
 ---
 

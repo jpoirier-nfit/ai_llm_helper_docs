@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/get-service-ports
 title: Get service ports | Services | Northflank API docs
-crawl_date: 2025-07-29T10:02:16.916336
+crawl_date: 2025-07-29T10:04:44.077241
 watsonmd_version: 0.1.0
 ---
 
