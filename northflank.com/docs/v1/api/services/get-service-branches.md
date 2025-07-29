@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/get-service-branches
 title: Get service branches | Services | Northflank API docs
-crawl_date: 2025-07-29T09:57:23.279456
+crawl_date: 2025-07-29T10:02:16.316659
 watsonmd_version: 0.1.0
 ---
 

@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/update-job-build-options
 title: Update job build options | Jobs | Northflank API docs
-crawl_date: 2025-07-29T09:57:25.916223
+crawl_date: 2025-07-29T10:02:18.926018
 watsonmd_version: 0.1.0
 ---
 

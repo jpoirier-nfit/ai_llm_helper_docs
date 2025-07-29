@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/get-job-branches
 title: Get job branches | Jobs | Northflank API docs
-crawl_date: 2025-07-29T09:57:25.697700
+crawl_date: 2025-07-29T10:02:18.709955
 watsonmd_version: 0.1.0
 ---
 

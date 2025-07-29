@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/update-service-build-source
 title: Update service build source | Services | Northflank API docs
-crawl_date: 2025-07-29T09:57:23.514039
+crawl_date: 2025-07-29T10:02:16.627331
 watsonmd_version: 0.1.0
 ---
 

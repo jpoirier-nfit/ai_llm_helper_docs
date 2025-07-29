@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/jobs/get-job-build-arguments
 title: Get job build arguments | Jobs | Northflank API docs
-crawl_date: 2025-07-29T09:57:25.743939
+crawl_date: 2025-07-29T10:02:18.756035
 watsonmd_version: 0.1.0
 ---
 
