@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/get-service-build-arguments
 title: Get service build arguments | Services | Northflank API docs
-crawl_date: 2025-07-29T09:24:13.095521
+crawl_date: 2025-07-29T09:57:23.326519
 watsonmd_version: 0.1.0
 ---
 

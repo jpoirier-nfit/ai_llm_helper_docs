@@ -1,7 +1,7 @@
 ---
 source_url: https://northflank.com/docs/v1/api/services/restart-service
 title: Restart service | Services | Northflank API docs
-crawl_date: 2025-07-29T09:24:13.623227
+crawl_date: 2025-07-29T09:57:23.884213
 watsonmd_version: 0.1.0
 ---
 
